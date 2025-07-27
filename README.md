@@ -18,6 +18,7 @@ The DMA transfers data from a source address to a destination address using **AX
 ## Structure
 ````
 dma_controller/
+├──NguyenBaoTinh_Lab5_DMA_design.png
 ├──Makefile
 ├──README.md
 ├──RTL/
