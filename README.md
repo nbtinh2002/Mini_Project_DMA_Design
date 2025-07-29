@@ -73,4 +73,5 @@ dma_controller/
 ---
 ## Author
 Nguyen Bao Tinh - Training project from VNCHIP RTL Program(2025)
+
 Supported by Mr. Quang Le and teaching assistants in VNCHIP

@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Jul 19 11:38:10 2025
+[*]
+[dumpfile] "/mnt/f/baotinh/rtl/0707_RTL_LAB/Lab5/controller_tb.vcd"
+[dumpfile_mtime] "Sat Jul 19 11:37:38 2025"
+[dumpfile_size] 2334
+[savefile] "/mnt/f/baotinh/rtl/0707_RTL_LAB/Lab5/controller.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-16.463615 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 157
+@28
+controller_tb.clk
+controller_tb.rst_n
+controller_tb.dma_start
+controller_tb.start_read
+controller_tb.start_write
+@22
+controller_tb.size_dtrans[15:0]
+controller_tb.r_size_data[15:0]
+controller_tb.w_size_data[15:0]
+controller_tb.src_reg[31:0]
+controller_tb.raddr_reg[31:0]
+controller_tb.dst_reg[31:0]
+controller_tb.waddr_reg[31:0]
+@28
+controller_tb.read_done
+controller_tb.write_done
+@29
+controller_tb.dma_done
+[pattern_trace] 1
+[pattern_trace] 0

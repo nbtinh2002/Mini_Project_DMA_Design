@@ -1,0 +1,43 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Jul 19 11:54:12 2025
+[*]
+[dumpfile] "/mnt/f/baotinh/rtl/0707_RTL_LAB/Lab5/read_axi4_interface_tb.vcd"
+[dumpfile_mtime] "Sat Jul 19 11:50:00 2025"
+[dumpfile_size] 2532
+[savefile] "/mnt/f/baotinh/rtl/0707_RTL_LAB/Lab5/read_axi4_interface.gtkw"
+[timestart] 0
+[size] 1920 1033
+[pos] -27 -24
+*-14.974346 62200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 297
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 308
+@28
+read_axi4_interface_tb.clk
+read_axi4_interface_tb.rst_n
+read_axi4_interface_tb.start_read
+read_axi4_interface_tb.axi_arvalid
+@23
+read_axi4_interface_tb.raddr_reg[31:0]
+@22
+read_axi4_interface_tb.axi_araddr[31:0]
+@28
+read_axi4_interface_tb.axi_arready
+read_axi4_interface_tb.axi_rvalid
+@22
+read_axi4_interface_tb.axi_rdata[31:0]
+@28
+read_axi4_interface_tb.axi_rready
+@22
+read_axi4_interface_tb.data_in[31:0]
+@28
+read_axi4_interface_tb.wen
+@22
+read_axi4_interface_tb.r_size_data[15:0]
+@28
+read_axi4_interface_tb.read_done
+read_axi4_interface_tb.fifo_full
+[pattern_trace] 1
+[pattern_trace] 0
