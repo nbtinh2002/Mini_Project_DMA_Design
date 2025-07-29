@@ -47,7 +47,7 @@ dma_controller/
 1. **Chọn Testbench**  
    - Trong `Makefile`, set `TOP_TB` thành tên testbench cần chạy (mặc định là `dma_controller_tb`):
    ```bash
-   TOP_TB = dma_controller_tb
+   TOP_TB ?= dma_controller_tb
 2. **Build & Run Simulation**
    ```bash
    make run     # Compile và chạy mô phỏng
@@ -73,3 +73,4 @@ dma_controller/
 ---
 ## Author
 Nguyen Bao Tinh - Training project from VNCHIP RTL Program(2025)
+Supported by Mr. Quang Le and teaching assistants in VNCHIP
