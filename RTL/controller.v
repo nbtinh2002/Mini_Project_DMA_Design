@@ -36,7 +36,7 @@ localparam [31:0] RAM_LIMIT = 32'h0001_0000;
 always@(posedge clk or negedge rst_n) begin
 	if(!rst_n) begin
 		dma_done	<= 0;
-		start_read	<= 0;
+		start_read	<= 0; 
 		r_size_data	<= 0;
 		raddr_reg	<= 0;
 		start_write	<= 0;
